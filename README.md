@@ -46,6 +46,9 @@ I love combining **modern technology,  principles, and creative development** to
 
 ![Ayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaz-hs-dev&show_icons=true&theme=radical)
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz-hs-dev&layout=compact&theme=radical)
+
 ---
 
 ## 📫 Contact Me
