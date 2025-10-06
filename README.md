@@ -5,6 +5,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Flutter+%7C+Node.js+%7C+NestJS+%7C+PostgreSQL;Building+Secure+and+Scalable+Apps;Lifelong+Learner+%7C+Tech+Explorer+%7C+Problem+Solver" alt="Typing Animation" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=ayaz-hs-dev&label=Profile%20Views&color=00C7FF&style=flat)
+
 </div>
 
 ---
@@ -54,7 +56,6 @@ I love combining **modern technologies, clean architecture, and creative problem
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Playground](https://img.shields.io/badge/Playground-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ---
 
@@ -70,12 +71,24 @@ I love combining **modern technologies, clean architecture, and creative problem
 
 ---
 
+## 🏆 GitHub Trophies  
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ayaz-hs-dev&theme=algolia&margin-w=10&margin-h=10)
+
+</div>
+
+---
+
 ## 📈 GitHub Stats  
 
 <div align="center">
 
 ![Ayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaz-hs-dev&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz-hs-dev&layout=compact&theme=radical)
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=ayaz-hs-dev&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
