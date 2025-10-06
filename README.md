@@ -1,4 +1,13 @@
-# Hi, I'm Ayaz 👋  
+<div align="center">
+  
+# 👋 Hi, I'm **Ayaz Hussain Shah**  
+### 🚀 Full Stack & Flutter Developer | Building Secure & Scalable Apps  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Flutter+%7C+Node.js+%7C+NestJS+%7C+PostgreSQL;Building+Secure+and+Scalable+Apps;Lifelong+Learner+%7C+Tech+Explorer+%7C+Problem+Solver" alt="Typing Animation" />
+
+</div>
+
+---
 
 I'm a **Full Stack & Flutter Developer** passionate about building **secure, scalable, and user-friendly applications**.  
 I love combining **modern technologies, clean architecture, and creative problem-solving** to craft digital experiences that truly stand out.  
@@ -15,8 +24,16 @@ I love combining **modern technologies, clean architecture, and creative problem
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+### 🌐 APIs & Backend Technologies  
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat&logo=socket.io&logoColor=white)
 
 ---
 
@@ -45,16 +62,36 @@ I love combining **modern technologies, clean architecture, and creative problem
 
 | Project | Description |
 |----------|-------------|
-| [🎵 **Music_App**](https://github.com/ayaz-hs-dev/Music_App) | Flutter music player app with local & online playback, favorites, and comments |
-| [💻 **Music_App_Backend**](https://github.com/ayaz-hs-dev/Music_App_Backend) | Node.js, NestJS, and MongoDB backend with REST APIs and secure authentication |
-| [📱 **Whatsapp_Clone**](https://github.com/ayaz-hs-dev/Whatsapp_Clone) | Flutter WhatsApp clone featuring chat, status, and voice/video calls |
+| [🎵 **Music_App**](https://github.com/ayaz-hs-dev/Music_App) | Flutter music player app with local & online playback, favorites, and comments. |
+| [💻 **Music_App_Backend**](https://github.com/ayaz-hs-dev/Music_App_Backend) | Node.js, NestJS, and MongoDB backend with REST APIs and secure authentication. |
+| [🚖 **Cab_Booking_App**](https://github.com/ayaz-hs-dev/Cab_Booking_App) | Role-based Authentication (Passenger/Driver), clean navigation, reusable widgets, and planned features like location services, ride requests, and Firebase Cloud Messaging notifications. |
+| [⚡ **Astra_Clone_Backend**](https://github.com/ayaz-hs-dev/Astra_Clone_Backend) | FastAPI + WebSocket server for Project Astra Flutter Clone, powered by Gemini Live API (2.5 Flash). Acts as a real-time bridge between the user’s microphone and Google’s Gemini model for streaming audio I/O. |
+| [📱 **Whatsapp_Clone**](https://github.com/ayaz-hs-dev/Whatsapp_Clone) | Flutter WhatsApp clone featuring chat, status, and voice/video calls. |
 
 ---
 
 ## 📈 GitHub Stats  
 
+<div align="center">
+
 ![Ayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaz-hs-dev&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz-hs-dev&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🔥 Currently Working On  
+- 🚀 Building cross-platform apps using **Flutter** & **Node.js/NestJS**  
+- ⚡ Developing real-time backends with **WebSockets** & **FastAPI**  
+- 🧩 Integrating **Supabase**, **Appwrite**, and **PostgreSQL** for modern backend stacks  
+
+---
+
+## 📚 Learning Next  
+- ☁️ **AWS** cloud architecture & deployment  
+- 🐳 **Docker** containerization for scalable apps  
+- 🔒 Advanced **DevOps pipelines** & **CI/CD automation**  
 
 ---
 
@@ -65,4 +102,8 @@ I love combining **modern technologies, clean architecture, and creative problem
 
 ---
 
-> “Turning ideas into secure, high-performance, and user-centered software — one line of code at a time.”
+<div align="center">
+
+> “Turning ideas into secure, high-performance, and user-centered software — one line of code at a time.”  
+
+</div>
