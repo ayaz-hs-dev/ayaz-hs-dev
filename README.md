@@ -5,8 +5,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Flutter+%7C+Node.js+%7C+NestJS+%7C+PostgreSQL;Building+Secure+and+Scalable+Apps;Lifelong+Learner+%7C+Tech+Explorer+%7C+Problem+Solver" alt="Typing Animation" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayaz-hs-dev&label=Profile%20Views&color=00C7FF&style=flat)
-
 </div>
 
 ---
